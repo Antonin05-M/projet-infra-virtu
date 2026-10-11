@@ -2,6 +2,15 @@
 ### Groupe : Brandon et Antonin - maquette réalisée en LAB
 
 ---
+## Contexte
+
+TechSolutions Inc. est une PME en croissance qui a besoin d’une infrastructure résiliente et automatisée pour héberger ses services critiques :
+
+- Base de données clients (PostgreSQL)
+- API interne (REST)
+- Serveurs web (applications métiers)
+
+Exigence réseau : Les réseaux Proxmox doivent être configurés en VXLAN pour le SDN (Software Defined Network). Le VXLAN permet de créer un réseau overlay pour le SDN, offrant une meilleure isolation et scalabilité des réseaux virtuels.
 
 ## 1. Vue d'ensemble de l'architecture
 
