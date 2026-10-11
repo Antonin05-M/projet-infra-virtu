@@ -1,5 +1,5 @@
 # Projet : Infrastructure Virtualisée pour TechSolutions Inc.
-### Groupe : Brandon, Antonin, David (bad)
+### Groupe : Brandon et Antonin - maquette réalisée en LAB
 
 ---
 
